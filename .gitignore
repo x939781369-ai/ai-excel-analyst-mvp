@@ -1,0 +1,7 @@
+.env
+event_log.csv
+feedback_log.csv
+session_summary.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
